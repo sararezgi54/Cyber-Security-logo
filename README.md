@@ -1,5 +1,7 @@
 # Cyber-Security-logo
+# Cyber-Security-logo
 
+![Cyber Security Logo](cyber%20Security.gif)
 ## Description
 This project is a 3D Cyber Security logo created using Onshape. The design represents cybersecurity through a shield, a lock, and circuit-inspired patterns.
 
