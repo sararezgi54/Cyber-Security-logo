@@ -1,5 +1,4 @@
 # Cyber-Security-logo
-# Cyber-Security-logo
 
 ![Cyber Security Logo](cyber%20Security.gif)
 ## Description
